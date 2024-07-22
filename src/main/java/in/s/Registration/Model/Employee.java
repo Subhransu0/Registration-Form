@@ -1,7 +1,4 @@
 package in.s.Registration.Model;
-
-
-
 public class Employee 
 {
  private String firstname ;
